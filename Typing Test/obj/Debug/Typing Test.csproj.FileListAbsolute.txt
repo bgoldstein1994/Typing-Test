@@ -1,0 +1,16 @@
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\bin\Debug\Typing Test.exe.config
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\bin\Debug\Typing Test.exe
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\bin\Debug\Typing Test.pdb
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing Test.csprojResolveAssemblyReference.cache
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\MainWindow.g.cs
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\App.g.cs
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing Test_MarkupCompile.cache
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing Test_MarkupCompile.lref
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\MainWindow.baml
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Strings.baml
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing Test.g.resources
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing_Test.Properties.Resources.resources
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing Test.csproj.GenerateResource.Cache
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing Test.csproj.CoreCompileInputs.cache
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing Test.exe
+C:\Users\darth\Documents\Visual Studio 2017\Projects\Typing Test\Typing Test\obj\Debug\Typing Test.pdb

@@ -1,0 +1,20 @@
+Author: Benjamin Goldstein
+Date: 9/21/2017
+Project Name: Typing Test
+Purpose: Greenway Health Challenge
+Contents: Compiled application as well as source code.
+
+To start the application, open "Typing Test.exe" located in the root directory.
+
+This application allows a user to take a typing speed test which determines the
+user's typing speed in words per minute.  To start a test, the user simply 
+starts typing in the text box below the sample excerpt. The excerpt is one of 
+fifteen that is randomly chosen. During the test, the status pane to right of 
+the typing area displays the elapsed time as well as the amount of words the 
+user has typed so far. After the test is concluded, the typing area displays 
+all typing errors, hilighted in red. The status pane to the right of the typing
+area shows the amount of time the test took, the amount of words the user 
+typed, the user's typing speed, and the user's typing accuracy percentage. To 
+start the test again, the user simply clicks the redo button in the status pane
+and begins again.
+
